@@ -1,2 +1,15 @@
 # RR-Webapp
-Just a russian roullete interactive webapp for roleplay
+Just a russian roullete interactive webapp for roleplay (เว็บแอปสำหรับการเล่น Russian Roullete สวมบทบาท)
+
+## รายละเอียดโปรเจกต์
+เกม Russian Roulette จำลองการยิงปืนแบบสุ่มผ่านหน้าเว็บ มีปุ่มสำหรับยิงและเอฟเฟกต์เสียง เช่น เสียงปืน, ลูกไฟ, หรือเสียง "แกร๊ก" เมื่อไม่มีลูกกระสุนในรังเพลิง
+
+## ฟีเจอร์หลัก
+1. ปุ่ม "Shoot" สำหรับกดยิง
+2. แสดงผลข้อความ:
+   - "Bang! You're dead!" (เมื่อยิงโดน)
+   - "Click! You're safe... for now." (เมื่อยิงไม่ออก)
+3. เอฟเฟกต์:
+   - รูปปืนเท่ๆ
+   - ลูกไฟเมื่อยิงโดน
+   - เสียงปืน (`fire.wav`) และเสียงแกร๊ก (`click.wav`) สามารถปรับแก้ได้หากต้องการ
